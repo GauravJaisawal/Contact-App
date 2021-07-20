@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "a24d8e41-2936-442b-af97-52cb35355f0c",
+      "name": "max",
+      "email": "max@gmail.com"
+    },
+    {
+      "id": "8708453c-389c-4be2-9977-1173445eadc4",
+      "name": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "75dbffdc-5978-429f-ad9a-b7f678f9ff7c",
+      "name": "gaurav",
+      "email": "hbjas77@gmail.com"
+    },
+    {
+      "id": "a59e2b32-fef0-44d5-8df0-a6be1789f32b",
+      "name": "vg",
+      "email": "hbjas77@gmail.com"
+    },
+    {
+      "id": "f89359e7-421e-4011-af69-84a0d81cf0d4",
+      "name": "gaurav",
+      "email": "j.gaurav1997@gmail.com"
+    },
+    {
+      "id": "c78bf06e-06be-4f20-a2e3-ba386af3afb9",
+      "name": "gaurav",
+      "email": "hbjas77@gmail.com"
+    },
+    {
+      "id": "41ed8966-9e6b-4604-bd02-8bd312b6c67f",
+      "name": "gaurav",
+      "email": "j.gaurav1997@gmail.com"
+    },
+    {
+      "id": "3272e856-6078-4b74-b8ac-c094353c6d87",
+      "name": "kundan",
+      "email": "kundan420@gmail.com"
+    },
+    {
+      "id": "74598708-09ac-409b-80c1-ceb0354312e7",
+      "name": "gaurav_he",
+      "email": "gaurav@gmail.comttt"
+    }
+  ]
+}
